@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Chamber TV 
+https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",eldo.TV
+https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Jasmin TV
+http://109.71.163.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Luxe TV
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Luxe TV
+https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",RTL2
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",RTL (TV) (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1group-title="" ,RTL (WebRadio) (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
