@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Al Aoula International
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Arrabiaa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Arriadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",M24 TV [Not 24/7]
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Medi 1 TV Afrique [Not 24/7]
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Medi 1 TV Arabic [Not 24/7]
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Medi 1 TV Maghreb  [Not 24/7]
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Maghreb Arabe Press [Not 24/7]
+https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
