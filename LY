@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Alwasat TV [Not 24/7]
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+
+#EXTINF:-1 group-title="",February TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+
+#EXTINF:-1 group-title="",Jamahiria TV [Not 24/7]
+https://master.starmena-cloud.com/hls/jam.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+
+#EXTINF:-1 group-title="",Libya Al Hadath [Not 24/7]
+http://82.212.74.100:8000/live/8103.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
