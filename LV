@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Latvijas Radio 2
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+
+#EXTINF:-1 group-title="",Latvijas Radio 3 Klasika
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+
+#EXTINF:-1 group-title="",TVNET
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
