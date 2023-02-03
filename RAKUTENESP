@@ -150,5 +150,11 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="",espejo
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="",Rakuten Drama Spain
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="",espejo
 https://brat-rakuten.amagi.tv/playlist.m3u8
